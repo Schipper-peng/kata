@@ -12,7 +12,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="TaskJDBC" options="--add-modules jdk.jpackage" />
+      <module name="TaskJDBC" options="" />
     </option>
   </component>
 </project>
